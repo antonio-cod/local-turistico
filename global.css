@@ -21,11 +21,13 @@
 
 }
   
-body {
-  margin: 62px 52px 62px 52px;
-  
+main {
+  padding: 24px;
 }
+
 #page {
+  margin: 62px auto;
+  box-sizing: border-box;
   max-width: 1120px;
   display: block;
   padding: 24px;
